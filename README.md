@@ -1,4 +1,5 @@
 Data Modeling using postgres
+
 Sparkify Analytics
 
 As the trend of custom recommended playlist increases. We are startup group who wants to fullfil their customers needs to provide enhanced and best recommended music playlist according to their mood and category for our customers via music streaming app.
